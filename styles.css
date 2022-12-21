@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+}
+
+.header {
+  background-color: beige;
+  font-weight: bolder;
+  font-size:xx-large;
+  text-align: center;
+}
+
+.enigma {
+    font-style: italic;
+    background-color: grey;
+    color: wheat;
+    font-family: cursive;
+    font-size:x-large;
+    padding:30px;
+    height: 2cm;
+    width:fit-content;
+    margin:auto;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black
+}
+
+th .tablehead {
+    color: chocolate;
+    background-color: black;
+    font-size: x-large;
+}
